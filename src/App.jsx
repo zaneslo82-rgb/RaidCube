@@ -13,8 +13,7 @@ const FontInject = () => (
   </style>
 );
 
-const DOWNLOAD_LINK = "
-https://ucb9db608960a3d985eb07c976ad.dl.dropboxusercontent.com/cd/0/get/C_B0cPHGFFikd9VX3u6Win4bJGajQTwC4vKAAXZxwzWxTpMf8HJlYjTR1LbtLASofNc56Tvd0q48NnfOViYFM8PT5HrLLSEl_N2h0bPfa7hIHyNmP3_KK4fAiAJ9W3dk7sgjhnuXGzC9-Wtpfj_EVw1P/file?_download_id=174647231183083638842817991992705537049193859116948148041987698&_log_download_success=1&_notify_domain=www.dropbox.com";
+const DOWNLOAD_LINK = "https://ucb9db608960a3d985eb07c976ad.dl.dropboxusercontent.com/cd/0/get/C_B0cPHGFFikd9VX3u6Win4bJGajQTwC4vKAAXZxwzWxTpMf8HJlYjTR1LbtLASofNc56Tvd0q48NnfOViYFM8PT5HrLLSEl_N2h0bPfa7hIHyNmP3_KK4fAiAJ9W3dk7sgjhnuXGzC9-Wtpfj_EVw1P/file?_download_id=174647231183083638842817991992705537049193859116948148041987698&_log_download_success=1&_notify_domain=www.dropbox.com";
 
 const GridBackground = () => (
   <div className="fixed inset-0 z-0 bg-black">
